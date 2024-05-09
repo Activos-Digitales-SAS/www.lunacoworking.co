@@ -19,7 +19,7 @@ import LogoImg6 from '../public/LogoImg6.png'
 import LogoImg7 from '../public/LogoImg7.png'
 import LogoImg8 from '../public/LogoImg8.png'
 import PopularImg1 from '../public/zonaSocial.jpg'
-import PopularImg2 from '../public/salaDeEspera.jpeg'
+import PopularImg2 from '../public/recepcion.jpg'
 import PopularImg3 from '../public/diseñoInnovador.png'
 import PopularImg4 from '../public/comodas.jpeg'
 import PopularImg5 from '../public/conferencias.png'
@@ -342,11 +342,11 @@ function App() {
                     <span><PeopleOutlineIcon className='iconito'/></span>5
                     </h2>
                     <h3 className="popular__title">
-                    Sala de Espera
+                    Recepción
 
                     </h3>
                     <p className="popular__description">
-                    Haz que se sientan comodos mientras te esperan, disfrutaran de cafe, agua fria!
+                    Redireccionamos a tus clientes, recibimos tus pedidos e informamos cualquier novedad!
                     </p>
                   </div>
                 </article>
