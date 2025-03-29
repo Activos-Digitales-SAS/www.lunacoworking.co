@@ -1,5 +1,6 @@
 import {useState, useEffect} from 'react'
 
+
 import TagManager from 'react-gtm-module';
 import PeopleOutlineIcon from '@mui/icons-material/PeopleOutline';
 
@@ -720,7 +721,7 @@ function App() {
 
           <div className="footer__privacy">
             <a href="#">Terminos y Condiciones</a>
-            <a href="#">Policitas de Privacidad</a>
+            <a href="#">Políticas de Privacidad</a>
           </div>
         </div>
       </footer>
